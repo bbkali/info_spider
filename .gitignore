@@ -1,0 +1,10 @@
+*.json 
+*.ini
+!config_sample.ini
+*.html
+!templates.html
+/test/
+需要改进的地方.txt
+*.pyc
+/__pycache__
+/result

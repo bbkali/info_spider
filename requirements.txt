@@ -1,0 +1,10 @@
+requests
+bs4
+configobj
+threading
+json
+re
+pymysql
+queue
+jinja2
+configobj
